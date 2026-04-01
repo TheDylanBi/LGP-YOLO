@@ -79,7 +79,7 @@ if __name__ == '__main__':
 
 
 ### Citation
-If you use our model, please consider citing:
+If use our model, please consider citing:
 ```sh
 @article{zhang2026lightweight,
   title={A Lightweight Granular Perception Feature Pyramid Network with Context-aware for Small Traffic Sign Detection},
