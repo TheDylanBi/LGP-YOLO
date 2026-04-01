@@ -47,16 +47,8 @@ the superiority of the proposed methods.
 
 <!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <img width="512.8" height="550.4" alt="image" src="https://github.com/user-attachments/assets/2dbb3446-1e35-480f-b618-bd7761ba8025" />
-
 <br />
 
 <p align="center">
